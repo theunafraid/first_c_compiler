@@ -4,7 +4,7 @@ The earliest versions of the very first C compiler, known to be written by the D
 
  Director **last1120c** is a saved copy of the compiler just before the migration from the PDP-11/20, which did not have multiply or divide instructions, but instead a provided a separate, optional unit that did these operations (and also shifts) by storing the operands into memory locations.
 
-The second directory, **prestruct-c** is a copy of the compiler just before adding structures usage. 
+The second directory, **prestruct-c** is a copy of the compiler just before adding structures functionality. 
 
 It's not possible to compile it nowadays with any modern C compilers like GCC, however, in theory there's a probability of success compiling it using PDP-11/UNIX emulator. 
 
