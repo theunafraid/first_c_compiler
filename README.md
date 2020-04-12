@@ -10,4 +10,4 @@ It's not possible to compile it nowadays with any modern C compilers like GCC, h
 
 Source: [Very early C compilers and language](https://www.bell-labs.com/usr/dmr/www/primevalC.html)
 
-PDP-11/UNIX [Emulator](http://pdp11.aiju.de/)
+[PDP-11/UNIX Emulator](http://pdp11.aiju.de/)
